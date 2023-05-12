@@ -1,0 +1,2378 @@
+{
+  "abdominal": [
+    {
+      "id": 1,
+      "name": "Abdominal bicicleta",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20bicicleta.gif?alt=media&token=4a760c47-679d-4326-bf7e-b613c59b1ae3",
+      "member": "Abdome"
+    },
+    {
+      "id": 2,
+      "name": "Abdominal calcanhar",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20calcanhar.gif?alt=media&token=af355b17-60ab-46b5-b1fd-eadb54821dda",
+      "member": "Abdome"
+    },
+    {
+      "id": 3,
+      "name": "Abdominal Canivete",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20Canivete.gif?alt=media&token=9d708e8d-9092-46d9-88ec-8ddb2f74d5eb",
+      "member": "Abdome"
+    },
+    {
+      "id": 4,
+      "name": "Abdominal com bola Bosu",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20com%20bola%20Bosu.gif?alt=media&token=496b36c0-70b7-4172-89b9-057f1b33c788",
+      "member": "Abdome"
+    },
+    {
+      "id": 5,
+      "name": "Abdominal com Rolinho",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20com%20Rolinho.gif?alt=media&token=fd53dd7e-afdf-4fce-b78b-106b71da5607",
+      "member": "Abdome"
+    },
+    {
+      "id": 6,
+      "name": "Abdominal completo do tronco",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20completo%20do%20tronco.gif?alt=media&token=4ad21597-6d02-4730-81ca-b16fae332cf6",
+      "member": "Abdome"
+    },
+    {
+      "id": 7,
+      "name": "Abdominal declinado",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20declinado.gif?alt=media&token=75603836-a5ee-4737-b5b6-c300f626dcae",
+      "member": "Abdome"
+    },
+    {
+      "id": 8,
+      "name": "Abdominal dragon flag",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20dragon%20flag.gif?alt=media&token=e54b17a5-6c01-4c24-9017-5922e3357e03",
+      "member": "Abdome"
+    },
+    {
+      "id": 9,
+      "name": "Abdominal elevação de pernas na barra fixa",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20eleva%C3%A7%C3%A3o%20de%20pernas%20na%20barra%20fixa.gif?alt=media&token=9426071a-7ba3-4d2c-8ace-197ed91819d1",
+      "member": "Abdome"
+    },
+    {
+      "id": 10,
+      "name": "Abdominal elevação de pernas na barra",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20eleva%C3%A7%C3%A3o%20de%20pernas%20na%20barra.gif?alt=media&token=2dbe069d-228d-42d0-ab44-9fe4de980de4",
+      "member": "Abdome"
+    },
+    {
+      "id": 11,
+      "name": "Abdominal em V",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20em%20V.gif?alt=media&token=e6469951-192c-46be-ba67-ea5ecd405373",
+      "member": "Abdome"
+    },
+    {
+      "id": 12,
+      "name": "Abdominal encolhimento",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20encolhimento.gif?alt=media&token=601d23e2-029d-4285-87ad-f631e7482b0d",
+      "member": "Abdome"
+    },
+    {
+      "id": 13,
+      "name": "Abdominal Giro Russo",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20Giro%20Russo.gif?alt=media&token=922de16e-9e2d-465f-9c5f-527ae773f087",
+      "member": "Abdome"
+    },
+    {
+      "id": 14,
+      "name": "Abdominal Infra Nas Paralelas com Pernas Estendidas",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20Infra%20Nas%20Paralelas%20com%20Pernas%20Estendidas.gif?alt=media&token=b8c796eb-6798-4a9d-bd9d-e9a8384ac080",
+      "member": "Abdome"
+    },
+    {
+      "id": 15,
+      "name": "Abdominal lenhador sentado",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20lenhador%20sentado.gif?alt=media&token=9a77277c-f4bf-4afb-b2b3-8f27bb3acc45",
+      "member": "Abdome"
+    },
+    {
+      "id": 16,
+      "name": "Abdominal mão esticada",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20m%C3%A3o%20esticada.gif?alt=media&token=4a58be31-2d4b-4149-b38f-93194129698c",
+      "member": "Abdome"
+    },
+    {
+      "id": 17,
+      "name": "Abdominal postura do gato",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20postura%20do%20gato.gif?alt=media&token=9edb5f04-3e78-43ef-9efb-ea00492d07a4",
+      "member": "Abdome"
+    },
+    {
+      "id": 18,
+      "name": "Abdominal prancha com escalada",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2Fabdominal%20prancha%20com%20escalada.gif?alt=media&token=4ed35e05-a93a-4a79-a8be-dac7ec204a8a",
+      "member": "Abdome"
+    },
+    {
+      "id": 19,
+      "name": "Abdominal prancha movimentando",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20prancha%20movimentando.gif?alt=media&token=517783b2-b8e8-4145-ad0a-6cda06af4a57",
+      "member": "Abdome"
+    },
+    {
+      "id": 20,
+      "name": "Abdominal prancha na bola",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20prancha%20na%20bola.gif?alt=media&token=f8a96b75-baee-4a6a-b08c-fcea7175e79f",
+      "member": "Abdome"
+    },
+    {
+      "id": 21,
+      "name": "Abdominal prancha",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20prancha.gif?alt=media&token=0ffe2b1b-9436-4f78-a5c7-cc47733a479d",
+      "member": "Abdome"
+    },
+    {
+      "id": 22,
+      "name": "Abdominal voador",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal%20voador.gif?alt=media&token=60eee410-f3bd-4fb4-9dd7-0dfd14c605da",
+      "member": "Abdome"
+    },
+    {
+      "id": 23,
+      "name": "Abdominal",
+      "type": "Funcional",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/abdomen%2FAbdominal.gif?alt=media&token=10225f60-2c40-4a16-9dad-5c6676803eb5",
+      "member": "Abdome"
+    }
+  ],
+  "antebraco": [
+    {
+      "id": 24,
+      "name": "Extensão de punho",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Fextens%C3%A3o%20de%20punho.gif?alt=media&token=8df67577-7657-44eb-8c18-71977a4e126f",
+      "member": "Antebraço"
+    },
+    {
+      "id": 25,
+      "name": "Flexão de punho com barra reversa",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Fflex%C3%A3o%20de%20punho%20com%20barra%20reversa.gif?alt=media&token=e109b695-95d1-47aa-a740-4f8197a061be",
+      "member": "Antebraço"
+    },
+    {
+      "id": 26,
+      "name": "Flexão de punho reversa com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Fflex%C3%A3o%20de%20punho%20reversa%20com%20cabo.gif?alt=media&token=1493dd76-2ec9-4cc3-86e4-95373eb9b84b",
+      "member": "Antebraço"
+    },
+    {
+      "id": 27,
+      "name": "Rosca inversa com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Frosca%20inversa%20com%20halteres.gif?alt=media&token=5bbd40bf-6b5d-49a4-8a58-f65f646b2758",
+      "member": "Antebraço"
+    },
+    {
+      "id": 28,
+      "name": "Rosca inversa de punho com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2FRosca%20inversa%20de%20punho%20com%20halteres.gif?alt=media&token=c7e87e4d-9226-443e-ae04-428ce9104b04",
+      "member": "Antebraço"
+    },
+    {
+      "id": 29,
+      "name": "Rosca martelo com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Frosca%20martelo%20com%20halteres.gif?alt=media&token=865b6459-10a9-44f3-965c-549a3b4ed34c",
+      "member": "Antebraço"
+    },
+    {
+      "id": 30,
+      "name": "Rosca martelo inclinada com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2FRosca%20Martelo%20Inclinada%20com%20Halteres.gif?alt=media&token=ba00c549-e574-4b72-9fc4-a1b83947afa4",
+      "member": "Antebraço"
+    },
+    {
+      "id": 31,
+      "name": "Rosca martelo unilateral com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2Frosca%20martelo%20unilateral%20com%20cabo.gif?alt=media&token=74a8a76e-44b0-4486-8ce1-b9f5f7ac6d56",
+      "member": "Antebraço"
+    },
+    {
+      "id": 32,
+      "name": "Rosca Zottman sentado com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/antebra%C3%A7o%2FRosca%20Zottman%20sentado%20com%20halteres.gif?alt=media&token=20214907-0881-4fa8-a5e0-295bcbfa9618",
+      "member": "Antebraço"
+    }
+  ],
+  "aquecimento": [
+    {
+      "id": 33,
+      "name": "Alongamento com barra",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20com%20barra.gif?alt=media&token=854568f8-69a2-431c-a4d4-990ee9634ea5",
+      "member": ""
+    },
+    {
+      "id": 34,
+      "name": "Alongamento cruzado de ombros e peito",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20cruzado%20de%20ombros%20e%20peito.gif?alt=media&token=95df9632-feb9-467e-92d5-cb7d84d76035",
+      "member": ""
+    },
+    {
+      "id": 35,
+      "name": "Alongamento da lombar",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20da%20lombar.gif?alt=media&token=996c1801-dbad-454f-9727-52b776d22e0b",
+      "member": ""
+    },
+    {
+      "id": 36,
+      "name": "Alongamento de Adutores da Coxa",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20de%20Adutores%20da%20Coxa.gif?alt=media&token=2dc2631d-12f9-4907-b9bb-b86357aa34e6",
+      "member": ""
+    },
+    {
+      "id": 37,
+      "name": "Alongamento de bíceps atrás das costas",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20de%20b%C3%ADceps%20atr%C3%A1s%20das%20costas.gif?alt=media&token=ac11a965-ec2c-411a-86a7-01fea52c4d4e",
+      "member": ""
+    },
+    {
+      "id": 38,
+      "name": "Alongamento de bíceps com extensão acima da cabeça",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20de%20b%C3%ADceps%20com%20extens%C3%A3o%20acima%20da%20cabe%C3%A7a.gif?alt=media&token=3ace49c9-2460-44a7-9fb2-10e2551e373a",
+      "member": ""
+    },
+    {
+      "id": 39,
+      "name": "Alongamento de Quadríceps-1",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20de%20Quadr%C3%ADceps-1.gif?alt=media&token=c3b921c3-735b-4322-91f9-df381731b0d6",
+      "member": ""
+    },
+    {
+      "id": 40,
+      "name": "Alongamento de Quadríceps",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20de%20Quadr%C3%ADceps.gif?alt=media&token=64f208e7-d1a6-4e79-9a8f-1be4b62bd974",
+      "member": ""
+    },
+    {
+      "id": 41,
+      "name": "Alongamento de rotação externa do ombro",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20de%20rota%C3%A7%C3%A3o%20externa%20do%20ombro.gif?alt=media&token=21579c91-5902-4b0b-95e2-d48c6472322c",
+      "member": ""
+    },
+    {
+      "id": 42,
+      "name": "Alongamento de rotação interna do ombro",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20de%20rota%C3%A7%C3%A3o%20interna%20do%20ombro.gif?alt=media&token=829a51e8-7407-4bc8-a336-1b372160c967",
+      "member": ""
+    },
+    {
+      "id": 43,
+      "name": "Alongamento do deltóide anterior",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FAlongamento%20do%20delt%C3%B3ide%20anterior.gif?alt=media&token=d56a87d5-270f-46e2-b957-48a27c843898",
+      "member": ""
+    },
+    {
+      "id": 44,
+      "name": "Alongamento do quadril",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20do%20quadril.gif?alt=media&token=f2df576f-4e8b-4aa3-bb17-a0dca9e2d9e5",
+      "member": ""
+    },
+    {
+      "id": 45,
+      "name": "Alongamento dos gluteos",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20dos%20gluteos.gif?alt=media&token=0b71676f-81ef-491d-bcba-b6ed248b6281",
+      "member": ""
+    },
+    {
+      "id": 46,
+      "name": "Alongamento em espacate frontal",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Falongamento%20em%20espacate%20frontal.gif?alt=media&token=71576b92-3737-4dee-aa7c-05bf0ad252f5",
+      "member": ""
+    },
+    {
+      "id": 47,
+      "name": "Círculos com os braços",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Fc%C3%ADrculos%20com%20os%20bra%C3%A7os.gif?alt=media&token=e1289d4c-6b89-48a9-b6a1-fe6863cb41c9",
+      "member": ""
+    },
+    {
+      "id": 48,
+      "name": "Manguito rotador-1",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FManguito%20rotador-1.gif?alt=media&token=5913cc3f-34e2-4287-92a0-95b2146e44cb",
+      "member": ""
+    },
+    {
+      "id": 49,
+      "name": "Manguito rotador",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FManguito%20rotador.gif?alt=media&token=f3f436aa-d54b-451d-9d84-0cc9aa6ed626",
+      "member": ""
+    },
+    {
+      "id": 50,
+      "name": "Posição da Borboleta",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FPosi%C3%A7%C3%A3o%20da%20Borboleta.gif?alt=media&token=5ac82788-0e1e-4970-9e09-7ebb1632d529",
+      "member": ""
+    },
+    {
+      "id": 51,
+      "name": "Posição sapo",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2FPosi%C3%A7%C3%A3o%20sapo.gif?alt=media&token=a7785607-80db-4bd2-8d41-100e552fe7ad",
+      "member": ""
+    },
+    {
+      "id": 52,
+      "name": "Postura da criança",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Fpostura%20da%20crian%C3%A7a.gif?alt=media&token=7f283350-4952-44cd-81ca-48aeba2da005",
+      "member": ""
+    },
+    {
+      "id": 53,
+      "name": "Rotação externa manguito com halteres",
+      "type": "Alongamento",
+      "series": 2,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/aquecimento%2Frota%C3%A7%C3%A3o%20externa%20manguito%20com%20halteres.gif?alt=media&token=3ebc69d3-846f-4c44-9078-6cbfac7452fa",
+      "member": ""
+    }
+  ],
+  "biceps": [
+    {
+      "id": 54,
+      "name": "Rosca 21",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%2021.gif?alt=media&token=7c7e1213-060b-48cb-bb3c-b00f9a0f541f",
+      "member": "Bíceps"
+    },
+    {
+      "id": 55,
+      "name": "Rosca banco scott",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20banco%20scott.gif?alt=media&token=570aeced-2f21-4098-a8f4-04f6417aba69",
+      "member": "Bíceps"
+    },
+    {
+      "id": 56,
+      "name": "Rosca barra no banco scott",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20barra%20no%20banco%20scott.gif?alt=media&token=67e6cdaa-922a-4554-9bd2-7119f41f3db1",
+      "member": "Bíceps"
+    },
+    {
+      "id": 57,
+      "name": "Rosca com barra pegada fechada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20com%20barra%20pegada%20fechada.gif?alt=media&token=7ef2026e-3bde-421e-96c0-9a57007fcf5b",
+      "member": "Bíceps"
+    },
+    {
+      "id": 58,
+      "name": "Rosca Concentrada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20Concentrada.gif?alt=media&token=440f8637-f181-44c5-8dd3-ff49ab984dc4",
+      "member": "Bíceps"
+    },
+    {
+      "id": 59,
+      "name": "Rosca direta banco scott",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20direta%20banco%20scott.gif?alt=media&token=027bffa1-7ca8-4078-aa20-f76525e5bf94",
+      "member": "Bíceps"
+    },
+    {
+      "id": 60,
+      "name": "Rosca direta barra reta",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20direta%20barra%20reta.gif?alt=media&token=63d22ec9-5cca-4b33-9f12-8644b9cec66c",
+      "member": "Bíceps"
+    },
+    {
+      "id": 61,
+      "name": "Rosca direta com barra com impulso",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20direta%20com%20barra%20com%20impulso.gif?alt=media&token=cc20a6b6-4aaa-40c5-aeb7-e816bcdc2e25",
+      "member": "Bíceps"
+    },
+    {
+      "id": 62,
+      "name": "Rosca direta com barra em pé",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20direta%20com%20barra%20em%20p%C3%A9.gif?alt=media&token=2ed82dbf-bfd8-4735-bf10-21a6b7b48399",
+      "member": "Bíceps"
+    },
+    {
+      "id": 63,
+      "name": "Rosca direta com barra sentado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20direta%20com%20barra%20sentado.gif?alt=media&token=6250d2c9-fde6-4930-9f94-9aeea7fefc2a",
+      "member": "Bíceps"
+    },
+    {
+      "id": 64,
+      "name": "Rosca direta inclinada com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20direta%20inclinada%20com%20halteres.gif?alt=media&token=fab3eaef-3c2c-42ef-bd62-24a549809be3",
+      "member": "Bíceps"
+    },
+    {
+      "id": 65,
+      "name": "Rosca direta inclinada no cross over",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20direta%20inclinada%20no%20cross%20over.gif?alt=media&token=ff21da0f-0383-4bbc-96d3-e8fb4f1100ea",
+      "member": "Bíceps"
+    },
+    {
+      "id": 66,
+      "name": "Rosca direta na máquina de bíceps",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20direta%20na%20m%C3%A1quina%20de%20b%C3%ADceps.gif?alt=media&token=694aa4f5-c99c-479d-ba93-0ab4a802f46f",
+      "member": "Bíceps"
+    },
+    {
+      "id": 67,
+      "name": "Rosca direta pegada inversa barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20direta%20pegada%20inversa.gif?alt=media&token=53321d35-7ee4-445b-a63d-75605527a8f3",
+      "member": "Bíceps"
+    },
+    {
+      "id": 68,
+      "name": "Rosca direta unilateral",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20direta%20unilateral.gif?alt=media&token=a6e6c568-def0-4cdb-afae-e4d1a0f6bb13",
+      "member": "Bíceps"
+    },
+    {
+      "id": 69,
+      "name": "Rosca martelo alternada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20martelo%20alternada.gif?alt=media&token=1a1b6e1a-6873-41f9-a1c6-1f05e674d8cd",
+      "member": "Bíceps"
+    },
+    {
+      "id": 70,
+      "name": "Rosca martelo com halteres (2)",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20martelo%20com%20halteres%20(2).gif?alt=media&token=74f7087b-a931-4c75-b52b-d287e4330bc9",
+      "member": "Bíceps"
+    },
+    {
+      "id": 71,
+      "name": "Rosca martelo com halteres no banco scott",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20martelo%20com%20halteres%20no%20banco%20scott.gif?alt=media&token=d61c9eee-a0a1-434b-a1a7-62c82bc6d940",
+      "member": "Bíceps"
+    },
+    {
+      "id": 72,
+      "name": "Rosca martelo com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20martelo%20com%20halteres.gif?alt=media&token=cd471231-ba36-41f1-89b2-010cd0876b99",
+      "member": "Bíceps"
+    },
+    {
+      "id": 73,
+      "name": "Rosca martelo cruzado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20martelo%20cruzado.gif?alt=media&token=4618239d-9527-4764-ac8c-c2bb887ec75c",
+      "member": "Bíceps"
+    },
+    {
+      "id": 74,
+      "name": "Rosca martelo na máquina com corda",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20martelo%20na%20m%C3%A1quina%20com%20corda.gif?alt=media&token=12909b35-a2ba-4390-a318-86147d72e028",
+      "member": "Bíceps"
+    },
+    {
+      "id": 75,
+      "name": "Rosca pegada inversa barra w",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20pegada%20inversa%20barra%20w.gif?alt=media&token=f132d96c-c8da-4a95-9f98-52c587cbd550",
+      "member": "Bíceps"
+    },
+    {
+      "id": 76,
+      "name": "Rosca scott com pegada fechada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca%20scott%20com%20pegada%20fechada.gif?alt=media&token=e0ffd083-6f50-451d-b489-0b7ac0974c6a",
+      "member": "Bíceps"
+    },
+    {
+      "id": 77,
+      "name": "Rosca spider",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2FRosca%20spider.gif?alt=media&token=b556221c-1e10-4af8-a0fa-a6cc6c536e79",
+      "member": "Bíceps"
+    },
+    {
+      "id": 78,
+      "name": "Rosca-posição-1",
+      "type": "",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca-posi%C3%A7%C3%A3o-1.gif?alt=media&token=ff4808c5-f5bb-4356-bca7-136041664722",
+      "member": "Bíceps"
+    },
+    {
+      "id": 79,
+      "name": "Rosca-postura",
+      "type": "",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/biceps%2Frosca-postura.gif?alt=media&token=b9ffb075-3360-4770-9614-e6dd61b1c5bf",
+      "member": "Bíceps"
+    }
+  ],
+  "cardio": [
+    {
+      "id": 80,
+      "name": "Bicicleta ergometrica",
+      "type": "Aeróbico",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/cardio%2Fbicicleta.gif?alt=media&token=937fb0a3-67b9-47a0-b41b-f8bf4fc0c486",
+      "member": "Corpo"
+    },
+    {
+      "id": 81,
+      "name": "Elíptico",
+      "type": "Aeróbico",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/cardio%2FEl%C3%ADptico.gif?alt=media&token=fe1d6c9b-8937-4587-b73d-771419b6ddc8",
+      "member": "Corpo"
+    },
+    {
+      "id": 82,
+      "name": "Esteira",
+      "type": "Aeróbico",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/cardio%2Festeira.gif?alt=media&token=83976ab9-c1f5-4ad9-82d0-65e3d8dfc5cd",
+      "member": "Corpo"
+    },
+    {
+      "id": 83,
+      "name": "Pula-corda",
+      "type": "Aeróbico",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/cardio%2Fpula-corda.gif?alt=media&token=c073984e-251f-444f-8bef-e634e2195464",
+      "member": "Corpo"
+    }
+  ],
+  "corpo-todo": [
+    {
+      "id": 84,
+      "name": "Agachamento com arremesso",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fagachamento%20com%20arremesso.gif?alt=media&token=da6dd4c8-4c6c-4d9d-abb6-a464318775e8",
+      "member": "Corpo"
+    },
+    {
+      "id": 85,
+      "name": "Arranco e empurrão com barra",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Farranco%20e%20empurr%C3%A3o%20com%20barra.gif?alt=media&token=60b92f35-e965-4cb9-ad55-1fa0b23201b3",
+      "member": "Corpo"
+    },
+    {
+      "id": 86,
+      "name": "Box-jump",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fbox-jump.gif?alt=media&token=86ae5740-5600-47d0-a103-be36b531b202",
+      "member": "Corpo"
+    },
+    {
+      "id": 87,
+      "name": "Box",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fbox.gif?alt=media&token=23f53e48-d31e-473c-b5dc-223af5143b24",
+      "member": "Corpo"
+    },
+    {
+      "id": 88,
+      "name": "Burpee com levantamento de halteres",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fburpee%20com%20levantamento%20de%20halteres.gif?alt=media&token=0da27008-ed1d-4fb8-aa4e-900208261a4c",
+      "member": "Corpo"
+    },
+    {
+      "id": 89,
+      "name": "Burpee",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fburpee.gif?alt=media&token=7cb5f173-7546-4261-adfa-1d4015b9c23f",
+      "member": "Corpo"
+    },
+    {
+      "id": 90,
+      "name": "Empurrar o trenó",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fempurrar%20o%20tren%C3%B3.gif?alt=media&token=7ee18d38-47fe-4959-862e-79d131e4fc58",
+      "member": "Corpo"
+    },
+    {
+      "id": 91,
+      "name": "Flexão de bombardeio",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fflex%C3%A3o%20de%20bombardeio.gif?alt=media&token=c1bfd8e9-7104-4d66-9e03-0a2b40da8c42",
+      "member": "Corpo"
+    },
+    {
+      "id": 92,
+      "name": "Front-lever",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Ffront-lever.gif?alt=media&token=65dc20a0-1b0a-47dc-81ea-4bd9cd5e5caf",
+      "member": "Corpo"
+    },
+    {
+      "id": 93,
+      "name": "Levantamento Olímpico",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2FLevantamento%20Ol%C3%ADmpico.gif?alt=media&token=8f5305df-e1bc-40a5-adad-3c3d9858f403",
+      "member": "Corpo"
+    },
+    {
+      "id": 94,
+      "name": "Levantamento terra com halteres",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Flevantamento%20terra%20com%20halteres.gif?alt=media&token=9de5ac2a-1d67-4028-a34e-ed381d9bc3e7",
+      "member": "Corpo"
+    },
+    {
+      "id": 95,
+      "name": "Levantamento turco com halteres",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Flevantamento%20turco%20com%20halteres.gif?alt=media&token=a3b1fca9-8847-4e1a-9339-2bf628546448",
+      "member": "Corpo"
+    },
+    {
+      "id": 96,
+      "name": "Ondulação Vertical Alternada com Corda Naval",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fondula%C3%A7%C3%A3o%20Vertical%20Alternada%20com%20Corda%20Naval.gif?alt=media&token=d05daad5-de92-44c1-8921-e47f87bd5991",
+      "member": "Corpo"
+    },
+    {
+      "id": 97,
+      "name": "Polichinelo",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fpolichinelo.gif?alt=media&token=4d209f60-6480-4796-8d89-88318882d6d3",
+      "member": "Corpo"
+    },
+    {
+      "id": 98,
+      "name": "Rastejamento de urso",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Frastejamento%20de%20urso.gif?alt=media&token=30b85599-f46c-4def-8bb3-8f1c8a3e6b8f",
+      "member": "Corpo"
+    },
+    {
+      "id": 99,
+      "name": "Remar",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fremar.gif?alt=media&token=577c3bb1-a598-46fa-8be1-2323397b8c4b",
+      "member": "Corpo"
+    },
+    {
+      "id": 100,
+      "name": "Salto agrupado",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fsalto%20agrupado.gif?alt=media&token=53fcb170-e305-4ed3-ad51-ea61c99104dc",
+      "member": "Corpo"
+    },
+    {
+      "id": 101,
+      "name": "Snatch",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fsnatch.gif?alt=media&token=3e774c04-db50-4fe4-9e4c-f9205654a31f",
+      "member": "Corpo"
+    },
+    {
+      "id": 102,
+      "name": "Trap bar",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Ftrap%20bar.gif?alt=media&token=adb8ee57-5585-429e-9293-464dd43f9f11",
+      "member": "Corpo"
+    },
+    {
+      "id": 103,
+      "name": "Virada de pneu",
+      "type": "CrossFit",
+      "series": "",
+      "repetition": "",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/corpo%20todo%2Fvirada%20de%20pneu.gif?alt=media&token=9986348c-1f3e-4c0c-9787-398a0693abb9",
+      "member": "Corpo"
+    }
+  ],
+  "costas": [
+    {
+      "id": 104,
+      "name": "Alavanca frontal",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Falavanca%20frontal.gif?alt=media&token=56e564ea-b29d-49a5-b9f4-0d3dbcb559da",
+      "member": "Costas"
+    },
+    {
+      "id": 105,
+      "name": "Barra fixa com pegada aberta",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fbarra%20fixa%20com%20pegada%20aberta.gif?alt=media&token=384b5016-1bdf-4e86-a3be-3bb7862aeed6",
+      "member": "Costas"
+    },
+    {
+      "id": 106,
+      "name": "Barra fixa com pegada fechada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fbarra%20fixa%20com%20pegada%20fechada.gif?alt=media&token=84d3a87b-60f9-4a8f-bf2b-5a90514fcfc4",
+      "member": "Costas"
+    },
+    {
+      "id": 107,
+      "name": "Barra fixa com pegada supinada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fbarra%20fixa%20com%20pegada%20supinada.gif?alt=media&token=e501553c-c3cf-44df-a3c2-0f9923862f19",
+      "member": "Costas"
+    },
+    {
+      "id": 108,
+      "name": "Barra fixa",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fbarra%20fixa.gif?alt=media&token=6d2eb95c-be40-4af4-ad23-b6e7b380b62c",
+      "member": "Costas"
+    },
+    {
+      "id": 109,
+      "name": "Crucifixo Inverso no Peck Deck",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fcrucifixo%20Inverso%20no%20Peck%20Deck.gif?alt=media&token=d0182ad4-56af-4362-98c5-3aebb7de4a0d",
+      "member": "Costas"
+    },
+    {
+      "id": 110,
+      "name": "Elevação escapular",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Feleva%C3%A7%C3%A3o%20escapular.gif?alt=media&token=e6e5f3ef-7c5b-4d86-9b5b-8ef6bc3cab6e",
+      "member": "Costas"
+    },
+    {
+      "id": 111,
+      "name": "Elevação inclinada com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Feleva%C3%A7%C3%A3o%20inclinada%20com%20halteres.gif?alt=media&token=3e8d1086-67df-48ed-a7f7-3e46671da5c7",
+      "member": "Costas"
+    },
+    {
+      "id": 112,
+      "name": "Elevação lateral com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Feleva%C3%A7%C3%A3o%20lateral%20com%20cabo.gif?alt=media&token=0b342d8b-da07-42f1-acc3-27f129e64d65",
+      "member": "Costas"
+    },
+    {
+      "id": 113,
+      "name": "Pulley frente",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpulley%20frente.gif?alt=media&token=1a0318d9-e28d-4506-b292-efe8587e6082",
+      "member": "Costas"
+    },
+    {
+      "id": 114,
+      "name": "Pulley triangulo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpulley%20triangulo.gif?alt=media&token=2feadb50-5263-4ccf-8a60-f9174c25ce35",
+      "member": "Costas"
+    },
+    {
+      "id": 115,
+      "name": "Pulley unilateral",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpulley%20unilateral.gif?alt=media&token=25e56d98-f4f8-4d6f-b01d-4f783d690f78",
+      "member": "Costas"
+    },
+    {
+      "id": 116,
+      "name": "Pullover com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpullover%20com%20cabo.gif?alt=media&token=928d2884-6993-49b0-a6a9-a55b25eb7191",
+      "member": "Costas"
+    },
+    {
+      "id": 117,
+      "name": "Pullover deitado no cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpullover%20deitado%20no%20cabo.gif?alt=media&token=9b306aa9-52ad-43fa-95b4-860a83fb8e05",
+      "member": "Costas"
+    },
+    {
+      "id": 118,
+      "name": "Puxada alta com pegada supinada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpuxada%20alta%20com%20pegada%20supinada.gif?alt=media&token=ffca1f96-d678-4ad5-9f2a-7e73f895787c",
+      "member": "Costas"
+    },
+    {
+      "id": 119,
+      "name": "Puxada alta no rosto",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpuxada%20alta%20no%20rosto.gif?alt=media&token=bacded17-afd8-45f2-99e6-b807e3bb64b1",
+      "member": "Costas"
+    },
+    {
+      "id": 120,
+      "name": "Puxada testa sentado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fpuxada%20testa%20sentado.gif?alt=media&token=19dbd3ec-5240-40d6-bc56-bdc9e677affa",
+      "member": "Costas"
+    },
+    {
+      "id": 121,
+      "name": "Remada alta",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20alta.gif?alt=media&token=3dd04559-38f7-45f3-bda4-4acd4dc7835e",
+      "member": "Costas"
+    },
+    {
+      "id": 122,
+      "name": "Remada baixa com triangulo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20baixa%20com%20triangulo.gif?alt=media&token=6846fe62-1e6c-453e-9b10-0a927c36cb3d",
+      "member": "Costas"
+    },
+    {
+      "id": 123,
+      "name": "Remada baixa em pé",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20baixa%20em%20p%C3%A9.gif?alt=media&token=8b039102-1378-47c2-b481-ca5e2b3091db",
+      "member": "Costas"
+    },
+    {
+      "id": 124,
+      "name": "Remada cavalinho",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20cavalinho.gif?alt=media&token=c6a28270-1a95-4fa6-bfe3-b012525ab72d",
+      "member": "Costas"
+    },
+    {
+      "id": 125,
+      "name": "Remada com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20com%20halteres.gif?alt=media&token=203d4a4a-ea7d-409d-9868-7becc509e090",
+      "member": "Costas"
+    },
+    {
+      "id": 126,
+      "name": "Remada curvada com barra supinada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20curvada%20com%20barra%20supinada.gif?alt=media&token=adc03864-192a-4051-a9e9-304a52c22994",
+      "member": "Costas"
+    },
+    {
+      "id": 127,
+      "name": "Remada curvada com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20curvada%20com%20barra.gif?alt=media&token=667bc955-1893-4de8-b939-82e691a91b6e",
+      "member": "Costas"
+    },
+    {
+      "id": 128,
+      "name": "Remada curvada no agachamento",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20curvada%20no%20agachamento.gif?alt=media&token=6b42fcc5-2ef7-4daf-af15-d95f309ae330",
+      "member": "Costas"
+    },
+    {
+      "id": 129,
+      "name": "Remada curvada smith",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20curvada%20smith.gif?alt=media&token=8278dad3-cc3d-433e-8d1c-2e76e6636d46",
+      "member": "Costas"
+    },
+    {
+      "id": 130,
+      "name": "Remada inclinada com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20inclinada%20com%20halteres.gif?alt=media&token=7659eaf1-7a3e-4e9e-8b8a-14b5143ea639",
+      "member": "Costas"
+    },
+    {
+      "id": 131,
+      "name": "Remada invertida",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20invertida.gif?alt=media&token=30ec8fbb-07a9-471f-98aa-82787536ba30",
+      "member": "Costas"
+    },
+    {
+      "id": 132,
+      "name": "Remada renegada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20renegada.gif?alt=media&token=81fa883b-5922-44ae-8767-cae64e7d4f27",
+      "member": "Costas"
+    },
+    {
+      "id": 133,
+      "name": "Remada serrote",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20serrote.gif?alt=media&token=72eb52eb-66b9-4437-9af3-6fb71933b506",
+      "member": "Costas"
+    },
+    {
+      "id": 134,
+      "name": "Remada unilateral em pé na barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/costas%2Fremada%20unilateral%20em%20p%C3%A9%20na%20barra.gif?alt=media&token=d0e6bd5e-9902-4632-9fe7-34286e9d4925",
+      "member": "Costas"
+    }
+  ],
+  "gluteo": [
+    {
+      "id": 135,
+      "name": "Coice com elastico",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fcoice%20com%20elastico.gif?alt=media&token=72905bad-664b-49a2-abe9-9ae902323517",
+      "member": "Glúteo"
+    },
+    {
+      "id": 136,
+      "name": "Coice no cabo na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fcoice%20no%20cabo%20na%20maquina.gif?alt=media&token=3653dc5e-c1c7-4a83-9fb0-f5090d691de1",
+      "member": "Glúteo"
+    },
+    {
+      "id": 137,
+      "name": "Coice",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fcoice.gif?alt=media&token=090785cd-77a9-4f9a-b091-945efbc4d0cd",
+      "member": "Glúteo"
+    },
+    {
+      "id": 138,
+      "name": "Hiperextensão lombar com peso",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fhiperextens%C3%A3o%20lombar%20com%20peso.gif?alt=media&token=937e7f46-d647-4d71-bc76-26a024ac9a8d",
+      "member": "Glúteo"
+    },
+    {
+      "id": 139,
+      "name": "Hiperextensão Reversa",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2FHiperextens%C3%A3o%20Reversa.gif?alt=media&token=6af040b4-8796-4f31-8621-7c7bb89d8235",
+      "member": "Glúteo"
+    },
+    {
+      "id": 140,
+      "name": "Levantamento terra com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Flevantamento%20terra%20com%20halteres.gif?alt=media&token=9388f3c0-f3ce-46d2-8957-fce181a8c9d2",
+      "member": "Glúteo"
+    },
+    {
+      "id": 141,
+      "name": "Levantamento terra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Flevantamento%20terra.gif?alt=media&token=7e1372e9-cc30-45e2-b7cb-526b74ada650",
+      "member": "Glúteo"
+    },
+    {
+      "id": 142,
+      "name": "Ponte de glúteo com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fponte%20de%20gl%C3%BAteo%20com%20halteres.gif?alt=media&token=533ba8ea-bdeb-48db-85ce-e2e8c9400621",
+      "member": "Glúteo"
+    },
+    {
+      "id": 143,
+      "name": "Ponte unilateral com halter no glúteo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fponte%20unilateral%20com%20halter%20no%20gl%C3%BAteo.gif?alt=media&token=6a3a36d8-d0eb-4df2-b23a-86b296a8ae90",
+      "member": "Glúteo"
+    },
+    {
+      "id": 144,
+      "name": "Stiff",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/gluteo%2Fstiff.gif?alt=media&token=8157bcb7-534a-4339-8f2d-58fe871f0355",
+      "member": "Glúteo"
+    }
+  ],
+  "ombro": [
+    {
+      "id": 145,
+      "name": "Desenvolvimento arnold",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fdesenvolvimento%20arnold.gif?alt=media&token=30a3a6de-02a9-4804-b04f-6eea21277b2f",
+      "member": "Ombro"
+    },
+    {
+      "id": 146,
+      "name": "Desenvolvimento com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fdesenvolvimento%20com%20halteres.gif?alt=media&token=781160c6-3ae4-4b46-bae5-554845774f99",
+      "member": "Ombro"
+    },
+    {
+      "id": 147,
+      "name": "Desenvolvimento militar com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fdesenvolvimento%20militar%20com%20barra.gif?alt=media&token=4c5f4fae-b059-4adf-a9a9-aab63f0d3b97",
+      "member": "Ombro"
+    },
+    {
+      "id": 148,
+      "name": "Desenvolvimento militar",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fdesenvolvimento%20militar.gif?alt=media&token=6b5353a2-37d0-4520-9b67-7013c303fb63",
+      "member": "Ombro"
+    },
+    {
+      "id": 149,
+      "name": "Desenvolvimento na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fdesenvolvimento%20na%20maquina.gif?alt=media&token=ee9308c7-6bcb-4564-b2b8-8cdec92c7c48",
+      "member": "Ombro"
+    },
+    {
+      "id": 150,
+      "name": "Elevação de braço",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20de%20bra%C3%A7o.gif?alt=media&token=395ce968-d122-4e11-9b4f-53a70d56412e",
+      "member": "Ombro"
+    },
+    {
+      "id": 151,
+      "name": "Elevação frontal",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20frontal.gif?alt=media&token=a4ea68ed-dd03-49e7-829a-5179abfdd71a",
+      "member": "Ombro"
+    },
+    {
+      "id": 152,
+      "name": "Elevação lateral apoiada no banco",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral%20apoiada%20no%20banco.gif?alt=media&token=4361c43d-39be-4872-8ee3-dad688a90c53",
+      "member": "Ombro"
+    },
+    {
+      "id": 153,
+      "name": "Elevação lateral deitado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral%20deitado.gif?alt=media&token=3d48c1bb-aea3-43b3-9740-87e086e0b440",
+      "member": "Ombro"
+    },
+    {
+      "id": 154,
+      "name": "Elevação lateral deltoide posterior",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral%20deltoide%20posterior.gif?alt=media&token=ca67b891-42db-47a5-9cc0-a920ccef6b6e",
+      "member": "Ombro"
+    },
+    {
+      "id": 155,
+      "name": "Elevação lateral na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral%20na%20maquina.gif?alt=media&token=f70541c9-97aa-4584-9a61-f6955636f600",
+      "member": "Ombro"
+    },
+    {
+      "id": 156,
+      "name": "Elevação lateral no banco",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral%20no%20banco.gif?alt=media&token=a193e813-14e4-4aa8-94e4-88c9b166e6e6",
+      "member": "Ombro"
+    },
+    {
+      "id": 157,
+      "name": "Elevação lateral",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Feleva%C3%A7%C3%A3o%20lateral.gif?alt=media&token=c24dc3b4-b9e5-40f5-b934-6b2910bb34d2",
+      "member": "Ombro"
+    },
+    {
+      "id": 158,
+      "name": "Levantamento frontal com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Flevantamento%20frontal%20com%20cabo.gif?alt=media&token=dcd542bb-f60d-4c5b-9155-2e4e69e5723b",
+      "member": "Ombro"
+    },
+    {
+      "id": 159,
+      "name": "Levantamento lateral inclinado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Flevantamento%20lateral%20inclinado.gif?alt=media&token=8c509e30-fbe4-4abd-9ba1-bfe685ff09cb",
+      "member": "Ombro"
+    },
+    {
+      "id": 160,
+      "name": "Remada alta posterior",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fremada%20alta%20posterior.gif?alt=media&token=1cc5d276-6cc5-4a82-8f02-e4e53ea3969d",
+      "member": "Ombro"
+    },
+    {
+      "id": 161,
+      "name": "Remada alta",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "8-10",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/ombro%2Fremada%20alta.gif?alt=media&token=00fcefce-9bbd-4b30-920a-811d0ecae55a",
+      "member": "Ombro"
+    }
+  ],
+  "panturrilha": [
+    {
+      "id": 162,
+      "name": "Alongamento de panturrilha",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Falongamento%20de%20panturrilha.gif?alt=media&token=8073c5e9-b091-4e2e-a391-6aa7794adbba",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 163,
+      "name": "Elevação de panturrilha em pé",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2FEleva%C3%A7%C3%A3o%20de%20panturrilha%20em%20p%C3%A9.gif?alt=media&token=681dafd7-ebbd-437e-9c5f-8d4afaef6ee6",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 164,
+      "name": "Panturrilha com uma perna",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20com%20uma%20perna.gif?alt=media&token=6ab7bc07-8f31-4e43-8bca-21d39ad34183",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 165,
+      "name": "Panturrilha donkey na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20donkey%20na%20maquina.gif?alt=media&token=21d5f0bf-f84b-44c9-879d-f8671e7e094f",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 166,
+      "name": "Panturrilha donkey",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20donkey.gif?alt=media&token=2f24ac54-380a-4c22-b08c-781dda5ce56d",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 167,
+      "name": "Panturrilha em pé na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20em%20p%C3%A9%20na%20maquina.gif?alt=media&token=633b85d7-7928-41c9-a2e4-8310e7c30a5f",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 168,
+      "name": "Panturrilha livre",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20livre.gif?alt=media&token=a67b16ba-6442-405f-b995-a86cfc316559",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 169,
+      "name": "Panturrilha sentado com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20sentado%20com%20halteres.gif?alt=media&token=49b91e8c-68f7-4c92-b443-82b4d7ce6d3e",
+      "member": "Panturrilha"
+    },
+    {
+      "id": 170,
+      "name": "Panturrilha sentado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "12-15",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/panturrilha%2Fpanturrilha%20sentado.gif?alt=media&token=78b1c90c-9e49-4f78-b370-bbb9bb1e7bfe",
+      "member": "Panturrilha"
+    }
+  ],
+  "peito": [
+    {
+      "id": 171,
+      "name": "Cordas de batalha",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fcordas%20de%20batalha.gif?alt=media&token=2d9b2cb7-9ded-4e37-83f5-b8be331569c1",
+      "member": "Peito"
+    },
+    {
+      "id": 172,
+      "name": "Crossover deitado com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fcrossover%20deitado%20com%20cabo.gif?alt=media&token=3da585a9-5a46-414d-bf94-9048546f3af5",
+      "member": "Peito"
+    },
+    {
+      "id": 173,
+      "name": "Crossover",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fcrossover.gif?alt=media&token=aca2b61d-82df-42a9-9332-8cc940c030aa",
+      "member": "Peito"
+    },
+    {
+      "id": 174,
+      "name": "Flexão com joelho",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o%20com%20joelho.gif?alt=media&token=d142f0ab-004d-433b-aca1-a1df8db73341",
+      "member": "Peito"
+    },
+    {
+      "id": 175,
+      "name": "Flexão com palma",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o%20com%20palma.gif?alt=media&token=f5156644-fcfe-4d2e-af8a-cdc1eeb05705",
+      "member": "Peito"
+    },
+    {
+      "id": 176,
+      "name": "Flexão de arqueiro",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o%20de%20arqueiro.gif?alt=media&token=50be55ad-105d-4043-88e2-6b5cc7ee6e15",
+      "member": "Peito"
+    },
+    {
+      "id": 177,
+      "name": "Flexão de punho",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o%20de%20punho.gif?alt=media&token=d04df104-a324-4c69-821d-c41e558baa0c",
+      "member": "Peito"
+    },
+    {
+      "id": 178,
+      "name": "Flexão no Bosu Ball",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o%20no%20Bosu%20Ball.gif?alt=media&token=d1d71b8e-c8a8-495d-8651-b14930faa228",
+      "member": "Peito"
+    },
+    {
+      "id": 179,
+      "name": "Flexão",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fflex%C3%A3o.gif?alt=media&token=e2ceca3e-dcff-4892-bda5-fdf030c072fe",
+      "member": "Peito"
+    },
+    {
+      "id": 180,
+      "name": "Mergulho no peito",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fmergulho%20no%20peito.gif?alt=media&token=e3ddb5a1-7eb7-4fac-aba4-909643c8558a",
+      "member": "Peito"
+    },
+    {
+      "id": 181,
+      "name": "Paralela",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fparalela.gif?alt=media&token=9512d34d-525f-49cc-a8e7-c8183c20ba9d",
+      "member": "Peito"
+    },
+    {
+      "id": 182,
+      "name": "Pec deck",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fpec%20deck.gif?alt=media&token=bb987dea-ea74-4249-b556-f6040bcdc1bd",
+      "member": "Peito"
+    },
+    {
+      "id": 183,
+      "name": "Press de peito em pé com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fpress%20de%20peito%20em%20p%C3%A9%20com%20cabo.gif?alt=media&token=f0011657-86c7-4e38-8891-d67ca80b6d36",
+      "member": "Peito"
+    },
+    {
+      "id": 184,
+      "name": "Press svend com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fpress%20svend%20com%20halteres.gif?alt=media&token=5fb19238-3808-4a2e-b9e8-4361eff1839a",
+      "member": "Peito"
+    },
+    {
+      "id": 185,
+      "name": "Pullover com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fpullover%20com%20barra.gif?alt=media&token=483319bb-0748-4cc8-a517-ddf5cbf249ab",
+      "member": "Peito"
+    },
+    {
+      "id": 186,
+      "name": "Pullover com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fpullover%20com%20halteres.gif?alt=media&token=7f3e4a02-760e-4530-9748-60cd37b9c14c",
+      "member": "Peito"
+    },
+    {
+      "id": 187,
+      "name": "Supino com barra view",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20barra%20view.gif?alt=media&token=df108eaa-adfd-4670-b988-995bb947e885",
+      "member": "Peito"
+    },
+    {
+      "id": 188,
+      "name": "Supino com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20barra.gif?alt=media&token=2bc45180-4a6f-4458-988d-b7367e8f510a",
+      "member": "Peito"
+    },
+    {
+      "id": 189,
+      "name": "Supino com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20cabo.gif?alt=media&token=64853e08-d77c-4842-be72-a41c0b1d5865",
+      "member": "Peito"
+    },
+    {
+      "id": 190,
+      "name": "Supino com halteres hexagonais",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20halteres%20hexagonais.gif?alt=media&token=8cf48b6e-f688-433d-b45e-d61430cb15fe",
+      "member": "Peito"
+    },
+    {
+      "id": 191,
+      "name": "Supino com halteres inclinado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20halteres%20inclinado.gif?alt=media&token=1c660ebe-956d-4784-9aa7-7f6cc375cc5f",
+      "member": "Peito"
+    },
+    {
+      "id": 192,
+      "name": "Supino com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20halteres.gif?alt=media&token=e263b7a7-65e5-4abc-b89e-c8844ef7e742",
+      "member": "Peito"
+    },
+    {
+      "id": 193,
+      "name": "Supino com pegada afastada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20pegada%20afastada.gif?alt=media&token=680b5f3e-4618-4685-9197-5bc68ee060fd",
+      "member": "Peito"
+    },
+    {
+      "id": 194,
+      "name": "Supino com pés elevados",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20com%20p%C3%A9s%20elevados.gif?alt=media&token=b68cd04e-082a-45f2-a168-835de4b29881",
+      "member": "Peito"
+    },
+    {
+      "id": 195,
+      "name": "Supino inclinado com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20inclinado%20com%20barra.gif?alt=media&token=4a97ebc2-ac6a-444a-9969-22f517367aab",
+      "member": "Peito"
+    },
+    {
+      "id": 196,
+      "name": "Supino inclinado com pegada fechada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20inclinado%20com%20pegada%20fechada.gif?alt=media&token=cb35d547-d8eb-4afc-832a-77afe5a6ded7",
+      "member": "Peito"
+    },
+    {
+      "id": 197,
+      "name": "Supino na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20na%20maquina.gif?alt=media&token=7c75f2f9-353f-48cd-add3-5cdeea1eb132",
+      "member": "Peito"
+    },
+    {
+      "id": 198,
+      "name": "Supino view cima",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fsupino%20view%20cima.gif?alt=media&token=a25eaf4e-a789-46a5-882f-b638c47ae4dd",
+      "member": "Peito"
+    },
+    {
+      "id": 199,
+      "name": "Voador com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fvoador%20com%20halteres.gif?alt=media&token=8a472dd1-e56d-44e3-b609-2657935edf7a",
+      "member": "Peito"
+    },
+    {
+      "id": 200,
+      "name": "Voador inclinado com cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fvoador%20inclinado%20com%20cabo.gif?alt=media&token=b5af5d8b-3c2d-4e6a-8a3d-eff72f968a5f",
+      "member": "Peito"
+    },
+    {
+      "id": 201,
+      "name": "Voador inclinado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/peito%2Fvoador%20inclinado.gif?alt=media&token=498bafb3-ff17-4180-af6a-774dad9241af",
+      "member": "Peito"
+    }
+  ],
+  "perna": [
+    {
+      "inferior": [
+        {
+          "id": 202,
+          "name": "Agachamento afundo",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20afundo.gif?alt=media&token=c40e56ba-6cb9-4502-a3a4-5ff11dce778a",
+          "member": "Perna"
+        },
+        {
+          "id": 203,
+          "name": "Agachamento búlgaro com halteres",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20b%C3%BAlgaro%20com%20halteres.gif?alt=media&token=e2d8ee30-a845-453c-855b-0246c2f6144e",
+          "member": "Perna"
+        },
+        {
+          "id": 204,
+          "name": "Agachamento búlgaro",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20b%C3%BAlgaro.gif?alt=media&token=bec72c00-da62-490a-a9de-58747039d154",
+          "member": "Perna"
+        },
+        {
+          "id": 205,
+          "name": "Agachamento com barra livre com suporte",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20com%20barra%20livre%20com%20suporte.gif?alt=media&token=f5e4622e-5e85-4410-aa27-0d8e3320fc09",
+          "member": "Perna"
+        },
+        {
+          "id": 206,
+          "name": "Agachamento hack inverso",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20hack%20inverso.gif?alt=media&token=70e53d65-e2ff-4b63-8200-4a96a37dabe4",
+          "member": "Perna"
+        },
+        {
+          "id": 207,
+          "name": "Agachamento livre com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20livre%20com%20barra.gif?alt=media&token=dc80940e-20ef-4f44-946f-93d561776c21",
+          "member": "Perna"
+        },
+        {
+          "id": 208,
+          "name": "Agachamento livre na smith",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20livre%20na%20smith.gif?alt=media&token=ab5eacbe-77a9-4305-b49b-e50a49915ff2",
+          "member": "Perna"
+        },
+        {
+          "id": 209,
+          "name": "Agachamento livre",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20livre.gif?alt=media&token=3df5d9f9-943f-452a-bbc1-dd45b2ed3dd3",
+          "member": "Perna"
+        },
+        {
+          "id": 210,
+          "name": "Agachamento hack",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20no%20hack.gif?alt=media&token=b48b25ab-0cc5-485c-b8a7-cfe8ac48e95d",
+          "member": "Perna"
+        },
+        {
+          "id": 211,
+          "name": "Agachamento sumô com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20com%20barra.gif?alt=media&token=9e8af3dd-bdc7-4395-8451-737035b1b0d9",
+          "member": "Perna"
+        },
+        {
+          "id": 212,
+          "name": "Agachamento sumô com halter",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20com%20halter.gif?alt=media&token=2239fc6a-ee99-405d-bd90-bb439d7dac6a",
+          "member": "Perna"
+        },
+        {
+          "id": 213,
+          "name": "Agachamento sumô com kettlebell",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20com%20kettlebell.gif?alt=media&token=1ce4fd08-5091-4569-9bf5-a2b5569cd903",
+          "member": "Perna"
+        },
+        {
+          "id": 214,
+          "name": "Agachamento sumô com peso",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20com%20peso.gif?alt=media&token=f07d7551-7764-4551-a045-d401484b3c6d",
+          "member": "Perna"
+        },
+        {
+          "id": 215,
+          "name": "Agachamento sumô em V",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20em%20V.gif?alt=media&token=fcc112af-371c-4024-990d-6d847bc2ab36",
+          "member": "Perna"
+        },
+        {
+          "id": 216,
+          "name": "Agachamento sumô pegada alternada",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20sum%C3%B4%20pegada%20alternada.gif?alt=media&token=57b77c4f-0901-4278-86d8-63616119a543",
+          "member": "Perna"
+        },
+        {
+          "id": 217,
+          "name": "Agachamento unilateral",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fagachamento%20unilateral.gif?alt=media&token=2e76b5c8-947c-46c2-89d8-5937b003389f",
+          "member": "Perna"
+        },
+        {
+          "id": 218,
+          "name": "Avanço com Halteres",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Favan%C3%A7o%20com%20Halteres.gif?alt=media&token=3193f170-f802-4ddf-8c80-0ef007ccbecb",
+          "member": "Perna"
+        },
+        {
+          "id": 219,
+          "name": "Bom dia",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fbom%20dia.gif?alt=media&token=0e0dd9b1-c91e-4fd2-b654-857c556396d2",
+          "member": "Perna"
+        },
+        {
+          "id": 220,
+          "name": "Cadeira extensora",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fcadeira%20extensora.gif?alt=media&token=17b87362-ebe6-4fcb-92ce-6cbe657a1c37",
+          "member": "Perna"
+        },
+        {
+          "id": 221,
+          "name": "Caminhada com peso",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2FCaminhada%20com%20peso.gif?alt=media&token=c927c612-25a6-477f-9ff0-9caee49d517a",
+          "member": "Perna"
+        },
+        {
+          "id": 222,
+          "name": "Caminhada de agachamento",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fcaminhada%20de%20agachamento.gif?alt=media&token=ebf47ceb-9591-476a-add3-a772bd8d7d5f",
+          "member": "Perna"
+        },
+        {
+          "id": 223,
+          "name": "Leg press 45",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fleg%20press%2045.gif?alt=media&token=8fac6b9f-1e57-4ac6-9836-fadfde211a44",
+          "member": "Perna"
+        },
+        {
+          "id": 224,
+          "name": "Levantamento terra com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Flevantamento%20terra%20com%20barra.gif?alt=media&token=10fb48c5-aa6f-4ae0-9ccc-f77a923c54f3",
+          "member": "Perna"
+        },
+        {
+          "id": 225,
+          "name": "Levantamento terra pegada alternada",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Flevantamento%20terra%20pegada%20alternada.gif?alt=media&token=89c28ff5-22c9-4c07-ac3d-06b3f3ab4503",
+          "member": "Perna"
+        },
+        {
+          "id": 226,
+          "name": "Levantamento terra view back",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Flevantamento%20terra%20view%20back.gif?alt=media&token=77ac07c4-4dac-4f18-8461-45046ea4ce60",
+          "member": "Perna"
+        },
+        {
+          "id": 227,
+          "name": "Smitt na máquina",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "10-12",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Finferior%2Fsmitt%20na%20m%C3%A1quina.gif?alt=media&token=3f30c8b4-3e0f-4c15-8e24-d6a0c77dee70",
+          "member": "Perna"
+        }
+      ]
+    },
+    {
+      "posterior": [
+        {
+          "id": 228,
+          "name": "Banco abdutor",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fbanco%20abdutor.gif?alt=media&token=4d88e399-77eb-4ea1-ad6c-b7cd383e2cf5",
+          "member": "Perna"
+        },
+        {
+          "id": 229,
+          "name": "Bom dia com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fbom%20dia%20com%20barra.gif?alt=media&token=7221be4e-99c2-48bc-9b05-2579664277cb",
+          "member": "Perna"
+        },
+        {
+          "id": 230,
+          "name": "Cadeira flexora",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fcadeira%20flexora.gif?alt=media&token=a8f0c497-639e-4ecf-8162-85b0da62c904",
+          "member": "Perna"
+        },
+        {
+          "id": 231,
+          "name": "Elevação pélvica com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Feleva%C3%A7%C3%A3o%20p%C3%A9lvica%20com%20barra.gif?alt=media&token=41653726-7379-44e4-a599-1bcc52d6664d",
+          "member": "Perna"
+        },
+        {
+          "id": 232,
+          "name": "Elevação pélvica com halteres",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Feleva%C3%A7%C3%A3o%20p%C3%A9lvica%20com%20halteres.gif?alt=media&token=f15e7990-9579-4b27-a624-60e58e25d5a9",
+          "member": "Perna"
+        },
+        {
+          "id": 233,
+          "name": "Extensão de quadril na polia baixa",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2FExtens%C3%A3o%20de%20quadril%20na%20polia%20baixa.gif?alt=media&token=17d74ced-1278-45a6-a4b5-633a8ca73db8",
+          "member": "Perna"
+        },
+        {
+          "id": 234,
+          "name": "Flexão para a frente",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fflex%C3%A3o%20para%20a%20frente.gif?alt=media&token=298b46c5-5b87-4d02-9457-082d467bba04",
+          "member": "Perna"
+        },
+        {
+          "id": 235,
+          "name": "Mesa flexora",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2FMesa%20flexora.gif?alt=media&token=0db731cc-5789-45df-89dd-37ed25a90ee1",
+          "member": "Perna"
+        },
+        {
+          "id": 236,
+          "name": "Stiff com barra",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fstiff%20com%20barra.gif?alt=media&token=7fdccd16-3a70-4ee9-8c01-5b2cc90ead48",
+          "member": "Perna"
+        },
+        {
+          "id": 237,
+          "name": "Stiff com halteres",
+          "type": "Musculação",
+          "series": 4,
+          "repetition": "8-10",
+          "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/pernas%2Fposterior%2Fstiff%20com%20halteres.gif?alt=media&token=17f4893a-c423-4bf0-a9e3-38221aab4f52",
+          "member": "Perna"
+        }
+      ]
+    }
+  ],
+  "trapezio": [
+    {
+      "id": 238,
+      "name": "Elevação lateral tronco inclinado",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/trapezio%2Feleva%C3%A7%C3%A3o%20lateral%20tronco%20inclinado.gif?alt=media&token=cc24c755-c9f7-4716-9523-d3112a81c833",
+      "member": "Trapézios"
+    },
+    {
+      "id": 239,
+      "name": "Encolhimento de ombros com halteres",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/trapezio%2Fencolhimento%20de%20ombros%20com%20halteres.gif?alt=media&token=d8ef3297-476a-444a-a2e3-52309028e840",
+      "member": "Trapézios"
+    },
+    {
+      "id": 240,
+      "name": "Encolhimento de ombros",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/trapezio%2Fencolhimento%20de%20ombros.gif?alt=media&token=ac106d61-e537-4b01-8623-933f8cb9c527",
+      "member": "Trapézios"
+    },
+    {
+      "id": 241,
+      "name": "Remada alta com cabo",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/trapezio%2Fremada%20alta%20com%20cabo.gif?alt=media&token=06c17d1b-50bd-449f-9176-79960de87c9d",
+      "member": "Trapézios"
+    },
+    {
+      "id": 242,
+      "name": "Voador invertido",
+      "type": "Musculação",
+      "series": 3,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/trapezio%2Fvoador%20invertido.gif?alt=media&token=7e057a24-b666-4d40-96e3-8e3893776520",
+      "member": "Trapézios"
+    }
+  ],
+  "triceps": [
+    {
+      "id": 243,
+      "name": "Flexão diamante",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fflex%C3%A3o%20diamante.gif?alt=media&token=d13d55d7-ff77-4491-9f11-d064c87c4857",
+      "member": "Tríceps"
+    },
+    {
+      "id": 244,
+      "name": "Mergulho no banco",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2FMergulho%20no%20banco.gif?alt=media&token=ff45d9aa-6af3-49ea-a2aa-f81f810e3024",
+      "member": "Tríceps"
+    },
+    {
+      "id": 245,
+      "name": "Paralela",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fparalela.gif?alt=media&token=1a7409b2-08a5-4ce6-9c1f-cfc0eb9aa9d2",
+      "member": "Tríceps"
+    },
+    {
+      "id": 246,
+      "name": "Pulley tríceps com barra EZ",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fpulley%20tr%C3%ADceps%20com%20barra%20EZ.gif?alt=media&token=8edd73cd-e831-41ca-a401-06f3cd22fa1c",
+      "member": "Tríceps"
+    },
+    {
+      "id": 247,
+      "name": "Pulley tríceps com barra V",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fpulley%20tr%C3%ADceps%20com%20barra%20V.gif?alt=media&token=0dda0803-b891-4b5e-9d16-f9bca04d2473",
+      "member": "Tríceps"
+    },
+    {
+      "id": 248,
+      "name": "Pulley tríceps com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fpulley%20tr%C3%ADceps%20com%20barra.gif?alt=media&token=64bd9391-12df-4112-9312-66f226696042",
+      "member": "Tríceps"
+    },
+    {
+      "id": 249,
+      "name": "Pulley tríceps com corda",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fpulley%20tr%C3%ADceps%20com%20corda.gif?alt=media&token=5f56651f-3a69-4ac2-848c-5a2d80a358d0",
+      "member": "Tríceps"
+    },
+    {
+      "id": 250,
+      "name": "Supino com pegada fechada",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Fsupino%20com%20pegada%20fechada.gif?alt=media&token=d3e9207a-f6ed-4ae6-a5a2-74a56351a791",
+      "member": "Tríceps"
+    },
+    {
+      "id": 251,
+      "name": "Tríceps coice com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20coice%20com%20halteres.gif?alt=media&token=423791b6-04ac-49cb-8aef-8c43854f3303",
+      "member": "Tríceps"
+    },
+    {
+      "id": 252,
+      "name": "Tríceps coice na polia",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20coice%20na%20polia.gif?alt=media&token=7cefe224-fb81-4cda-864a-609d50aa688f",
+      "member": "Tríceps"
+    },
+    {
+      "id": 253,
+      "name": "Tríceps francês no cabo",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20franc%C3%AAs%20no%20cabo.gif?alt=media&token=a23d41df-5b75-4bf2-a2c9-f4d728c34854",
+      "member": "Tríceps"
+    },
+    {
+      "id": 254,
+      "name": "Tríceps francês",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20franc%C3%AAs.gif?alt=media&token=852532aa-27f5-4362-871d-1fe91529d6c0",
+      "member": "Tríceps"
+    },
+    {
+      "id": 255,
+      "name": "Tríceps na maquina",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20na%20maquina.gif?alt=media&token=c6f2299e-7e88-455d-b1f8-a5b93553e3ed",
+      "member": "Tríceps"
+    },
+    {
+      "id": 256,
+      "name": "Tríceps testa com barra",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20testa%20com%20barra.gif?alt=media&token=f561789e-8a98-4443-b90c-5f7b7dfa5354",
+      "member": "Tríceps"
+    },
+    {
+      "id": 257,
+      "name": "Tríceps testa com halteres",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20testa%20com%20halteres.gif?alt=media&token=3c9cf1a8-d116-47d9-9d9b-9bfc0d9760a6",
+      "member": "Tríceps"
+    },
+    {
+      "id": 258,
+      "name": "Tríceps testa na polia deitado",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20testa%20na%20polia%20deitado.gif?alt=media&token=df275c53-91d0-4fbb-9d59-1175be86f93e",
+      "member": "Tríceps"
+    },
+    {
+      "id": 259,
+      "name": "Tríceps testa na polia",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20testa%20na%20polia.gif?alt=media&token=53bce503-5256-449e-8578-c99f05040fcc",
+      "member": "Tríceps"
+    },
+    {
+      "id": 260,
+      "name": "Tríceps testa no banco",
+      "type": "Musculação",
+      "series": 4,
+      "repetition": "10-12",
+      "url_gif": "https://firebasestorage.googleapis.com/v0/b/appgym-b2902.appspot.com/o/triceps%2Ftr%C3%ADceps%20testa%20no%20banco.gif?alt=media&token=b173275a-ab3c-47c9-9124-6c9dfb980bf7",
+      "member": "Tríceps"
+    }
+  ]
+}
